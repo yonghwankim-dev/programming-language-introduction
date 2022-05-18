@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;as06.txt&apos; to &apos;[PL][00]201604138_김용환_HW07/src/main/resources/interpreter&apos;&#x0D;&#x0A;- Original project: &apos;[PL][00]201604138_김용환_HW07&apos;&#x0D;&#x0A;- Destination element: &apos;[PL][00]201604138_김용환_HW07/src/main/resources/interpreter&apos;&#x0D;&#x0A;- Original element: &apos;as06.txt&apos;" description="Copy file" destination="/src\/main\/resources&lt;interpreter" element1="src/main/resources/parser/as06.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590202616490" units="0" version="1.0"/>
+</session>

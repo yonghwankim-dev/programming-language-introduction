@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="lexer.TokenIterator"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.HTMLReader.SpecialAction"/>
+<fullyQualifiedTypeName name="java.net.StandardProtocolFamily"/>
+<fullyQualifiedTypeName name="lexer.Token"/>
+<fullyQualifiedTypeName name="lexer.TokenType"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.net.URLDecoder"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="parser.ast.Node"/>
+<fullyQualifiedTypeName name="parser.ast.BinaryOpNode"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="java.io.Console"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.BoldAction"/>
+<fullyQualifiedTypeName name="parser.ast.QuoteNode"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.nio.file.Paths"/>
+<fullyQualifiedTypeName name="java.nio.file.Path"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="parser.ast.IntNode"/>
+<fullyQualifiedTypeName name="parser.ast.IdNode"/>
+<fullyQualifiedTypeName name="parser.ast.ListNode"/>
+<fullyQualifiedTypeName name="parser.ast.FunctionNode"/>
+<fullyQualifiedTypeName name="parser.ast.FunctionNode.FunctionType"/>
+<fullyQualifiedTypeName name="parser.ast.BooleanNode"/>
+</qualifiedTypeNameHistroy>

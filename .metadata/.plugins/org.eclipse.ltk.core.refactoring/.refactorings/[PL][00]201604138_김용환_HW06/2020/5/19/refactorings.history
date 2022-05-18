@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;[PL][00]201604138_김용환_HW06/src/main/resources/parser/as05.txt&apos; to &apos;as06.txt&apos;" description="Rename resource &apos;as05.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/parser/as05.txt" name="as06.txt" stamp="1588781664839" updateReferences="true"/>
+</session>
